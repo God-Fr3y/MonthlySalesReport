@@ -756,7 +756,7 @@ def banner():
 
     # Define the text to be printed
     text = "MONTHLY SALES REPORT"
-    author = "\t\t\tBy: b4tug4n"
+    author = "\t\t\tBy: GODFR3Y"
 
     # Get the size of the terminal
     terminal_size = shutil.get_terminal_size()
